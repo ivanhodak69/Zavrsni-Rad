@@ -1,0 +1,24 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","220uF","CP_Radial_D5.0mm_P2.00mm",202.190000,-132.284888,-90.000000,top
+"C2","220uF","CP_Radial_D5.0mm_P2.00mm",210.690000,-133.240000,180.000000,top
+"D1","LED","LED_D5.0mm",217.915000,-133.240000,0.000000,top
+"D2","D_Schottky_Filled","D_DO-41_SOD81_P12.70mm_Horizontal",204.690000,-108.740000,-90.000000,top
+"D3","D_Schottky_Filled","D_DO-41_SOD81_P12.70mm_Horizontal",199.190000,-108.740000,-90.000000,top
+"D4","D_Schottky_Filled","D_DO-41_SOD81_P12.70mm_Horizontal",210.440000,-87.990000,0.000000,top
+"D5","D_Schottky_Filled","D_DO-41_SOD81_P12.70mm_Horizontal",210.340000,-101.990000,0.000000,top
+"D6","D_Schottky_Filled","D_DO-41_SOD81_P12.70mm_Horizontal",223.040000,-106.990000,180.000000,top
+"D7","D_Schottky_Filled","D_DO-41_SOD81_P12.70mm_Horizontal",223.140000,-111.990000,180.000000,top
+"D8","D_Schottky_Filled","D_DO-41_SOD81_P12.70mm_Horizontal",223.140000,-92.990000,180.000000,top
+"D9","D_Schottky_Filled","D_DO-41_SOD81_P12.70mm_Horizontal",223.140000,-97.490000,180.000000,top
+"J1","12V Source","TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",192.150000,-132.740000,0.000000,top
+"J3","Output A","TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",194.040000,-86.490000,180.000000,top
+"J4","Pin za Vin","PinHeader_1x01_P2.54mm_Vertical",216.190000,-117.990000,0.000000,top
+"J5","Conn_01x04","PinSocket_1x04_P2.54mm_Vertical",156.670000,-137.250000,90.000000,top
+"J6","Conn_02x19_Odd_Even","PinSocket_2x19_P2.54mm_Vertical",126.250000,-85.380000,0.000000,top
+"J7","Conn_02x19_Odd_Even","PinSocket_2x19_P2.54mm_Vertical",187.250000,-85.320000,0.000000,top
+"J8","Conn_01x06","PinSocket_1x06_P2.54mm_Vertical",183.040000,-137.500000,-90.000000,top
+"JP1","Jumper_Bridged","PinHeader_1x02_P2.54mm_Vertical",200.860000,-126.540000,90.000000,top
+"JP2","Jumper_Bridged","PinHeader_1x02_P2.54mm_Vertical",194.290000,-98.780000,180.000000,top
+"R1","1k","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",223.110000,-124.740000,-90.000000,top
+"U1","LM78M05_TO220","TO-220-3_Vertical",211.110000,-125.740000,0.000000,top
+"U2","L298N","TO127P2020X500X2100-15",198.210000,-86.430000,0.000000,top

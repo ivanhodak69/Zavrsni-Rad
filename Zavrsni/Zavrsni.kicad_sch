@@ -5572,6 +5572,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 88.9 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "L298"
+			(at 88.9 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "396f0550-2fc7-4753-bc60-11b73271365f")
 		)
@@ -6098,6 +6116,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 118.11 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" ""
+			(at 118.11 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "757a7f7e-9f2f-4354-a15c-80206a924b70")
 		)
@@ -6364,6 +6400,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 90.17 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" ""
+			(at 90.17 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9bb23e0a-8891-4f50-9ced-13a413461200")
 		)
@@ -6429,6 +6483,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" ""
 			(at 104.14 35.56 0)
 			(effects
 				(font
@@ -7135,6 +7207,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 64.77 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" ""
+			(at 64.77 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa486615-23b1-4c4f-87c7-fa35c56e8641")
 		)
@@ -7197,6 +7287,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 118.11 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 118.11 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" ""
 			(at 118.11 35.56 0)
 			(effects
 				(font
