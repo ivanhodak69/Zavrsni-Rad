@@ -1,4 +1,4 @@
-26770874008733336
+26767342654180454
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2813,13 +2813,6 @@ speaker CUI
 0
 2
 2
-CONV_PDQ2-D5-S3-S
-CONV_PDQ2-D5-S3-S
-
-
-0
-7
-7
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -97292,13 +97285,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SOP127P600X175-9N
-SOP127P600X175-9N
-
-
-0
-9
-9
 STM32F446RET6
 QFP50P1200X1200X160-64N
 
