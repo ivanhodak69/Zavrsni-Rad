@@ -12,7 +12,6 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "J6","Conn_02x19_Odd_Even","PinSocket_2x19_P2.54mm_Vertical",125.000000,-85.000000,0.000000,top
 "J7","Conn_02x19_Odd_Even","PinSocket_2x19_P2.54mm_Vertical",186.000000,-85.000000,0.000000,top
 "J8","Conn_01x06","PinSocket_1x06_P2.54mm_Vertical",194.300000,-117.700000,0.000000,top
-"JP1","Jumper_Bridged","PinHeader_1x02_P2.54mm_Vertical",203.700000,-120.300000,-90.000000,top
 "R1","1k","R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal",198.000000,-121.440000,90.000000,top
-"U1","LM78M05_TO220","TO-220-3_Vertical",204.000000,-124.000000,180.000000,top
+"U1","LM78M05_TO220","TO-220-3_Vertical",201.650000,-121.360000,-90.000000,top
 "U2","L298N","TO127P2020X500X2100-15",202.342500,-92.910000,0.000000,top
