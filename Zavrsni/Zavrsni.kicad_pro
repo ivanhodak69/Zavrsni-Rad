@@ -510,7 +510,7 @@
       "idf": "",
       "netlist": "",
       "plot": "./Gerber",
-      "pos_files": "POS",
+      "pos_files": "Gerber/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",

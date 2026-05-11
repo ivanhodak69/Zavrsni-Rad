@@ -78,7 +78,7 @@
 		(tenting front back)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_5555555d_5755f5ff)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_02000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -1585,6 +1585,7 @@
 		(property "Reference" "J3"
 			(at 5.5 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "58cf19e5-ee80-4a7a-8d2a-605cfbc28891")
 			(effects
 				(font
@@ -3152,6 +3153,7 @@
 		(property "Reference" "J1"
 			(at 4.94 -3.5 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4573a0e8-943e-4592-8f58-471e4783a349")
 			(effects
 				(font
