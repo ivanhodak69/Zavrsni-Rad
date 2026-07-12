@@ -6,6 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Zavrsni rad")
+		(date "2026-05-20")
+		(rev "D")
 		(company "TVZ")
 		(comment 1 "Autor: Ivan Hodak")
 	)
@@ -3399,6 +3401,10 @@
 		(uuid "598bb436-039c-4a1d-ac53-88f771242e30")
 	)
 	(no_connect
+		(at 257.81 36.83)
+		(uuid "599326b1-3a3b-43eb-a8c1-e25eec59722f")
+	)
+	(no_connect
 		(at 245.11 31.75)
 		(uuid "5a3bdb65-f68d-453d-852e-fc5796989c39")
 	)
@@ -3791,16 +3797,6 @@
 			(type default)
 		)
 		(uuid "3a5b34a4-9783-4e40-b396-ab221153dea1")
-	)
-	(wire
-		(pts
-			(xy 257.81 36.83) (xy 259.08 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b8fc2d1-395d-4f63-b76c-404e6e5e2736")
 	)
 	(wire
 		(pts
@@ -4589,28 +4585,6 @@
 		(uuid "7875ce55-99e5-43ed-8bc4-7aed0c36ece0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 92.71 100.1872 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GUMB"
-		(shape input)
-		(at 259.08 36.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7fab569c-3138-4b8c-8336-ad131a41d95b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 267.3871 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)

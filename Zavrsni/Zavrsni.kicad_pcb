@@ -3566,7 +3566,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.95 0)
+			(at -0.02 4.34 0)
 			(layer "F.Fab")
 			(uuid "d0135918-83a1-4255-bfde-ae6017cbc63a")
 			(effects
@@ -3666,7 +3666,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.95 0)
+			(at 0.01 4.34 0)
 			(layer "F.Fab")
 			(uuid "e50db27b-bf20-4354-98ee-6aa5902d738c")
 			(effects
@@ -7049,7 +7049,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.95 0)
+			(at 0.06 -4.55 0)
 			(layer "F.Fab")
 			(uuid "006d7293-9e28-4c57-8aa4-ce481e3f498f")
 			(effects
@@ -7424,7 +7424,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 3.95 0)
+			(at 0.09 -4.45 0)
 			(layer "F.Fab")
 			(uuid "c19749b0-f6a5-4e5e-9b01-754eec3c156e")
 			(effects
